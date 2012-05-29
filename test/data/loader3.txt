@@ -1,0 +1,9 @@
+# toto je komentovany testovaci vstup pro dataloader
+# komentare jsou pouze jednoradkove a zacinaji #
+1.0
+2.0
+# komentar v prostred souboru
+3.0
+4.0
+5.0
+# komentar na konci souboru
